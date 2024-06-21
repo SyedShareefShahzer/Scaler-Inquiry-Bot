@@ -1,3 +1,4 @@
+langchain
 langchain_openai 
 langchain_core
 python-dotenv
@@ -21,3 +22,4 @@ langchainhub
 sentence_transformers
 PyPDF2
 langchain-objectbox
+langchain-ai21
