@@ -10,7 +10,7 @@ User-Friendly Interface: Easy-to-use chat interface for smooth interaction.
 Scalability: Designed to handle a large volume of queries simultaneously, making it ideal for high-traffic environments.
 Integration: Easy integration with Scaler's existing systems and platforms.
 
-##Technologies Used:
+## Technologies Used:
 Large Language Models (LLM): Used Llama 3 LLM with 8 billion parameters  for advanced language understanding and generation.
 Retrieval-Augmented Generation (RAG): Combine retrieval of relevant documents with LLM to generate more accurate and informative responses.
 Vector Database: Used FAISS for efficient storage and retrieval of embeddings.
