@@ -2,6 +2,8 @@
 ## Scaler Inquiry Bot
 Scaler Inquiry Bot is an advanced AI-powered assistant designed to streamline and enhance the inquiry handling process for Scaler, a leading educational platform. This project leverages large language models (LLM), Retrieval-Augmented Generation (RAG), and a vector database to provide accurate, context-aware responses to user queries, ensuring a seamless and efficient user experience.
 
+Click here to use the bot : https://www.linkedin.com/posts/shareef-shahzer_app-activity-7209869577806049280-CUIz?utm_source=share&utm_medium=member_desktop
+
 ## Features
 Real-time Query Handling: Respond to user inquiries in real-time with precise and relevant information.
 Contextual Understanding: Utilize LLM and RAG to understand and generate responses based on the context of questions.
